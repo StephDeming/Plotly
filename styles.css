@@ -1,0 +1,16 @@
+body {
+
+    color: #080808;
+    background-color: rgb(69, 42, 189);
+  }
+ 
+ .tag {
+     font-family: inherit; 
+     font-size: 1rem;
+    }  
+
+.jumbotron {
+    background-image: url("bacteria.jfif");
+    background-size: 100% 100%;
+    text-align: center;
+  }
